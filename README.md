@@ -1,5 +1,7 @@
 # Spring-Boot RSocket
-🔘 A new messaging protocol   
+🔘 In the diverse World of microservices, working exclusively with the HTTP protocol can have some challenges. 
+
+🔘 RSocket is a new messaging protocol that's designed to solve these challenges.  
 
 🔘 It can do Bi-directional Communication delivered via TCP or Web Socket.    
 
